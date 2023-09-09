@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@300;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inria+Serif:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Irish+Grover:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-inknut-antiqua: "Inknut Antiqua";
+  --font-inria-serif: "Inria Serif";
+  --font-irish-grover: "Irish Grover";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-13xl: 32px;
+  --font-size-xl: 20px;
+  --font-size-xs: 12px;
+  --font-size-base: 16px;
+  --font-size-77xl: 96px;
+  --font-size-9xl: 28px;
+  --font-size-45xl: 64px;
+  --font-size-21xl: 40px;
+  --font-size-17xl: 36px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+  --color-darkslategray-100: #332f2f;
+  --color-mediumspringgreen: #35f9ac;
+  --color-dimgray: #787070;
+  --color-gray-100: rgba(255, 255, 255, 0);
+  --color-gainsboro-100: #d9d9d9;
+  --color-gainsboro-200: rgba(217, 217, 217, 0);
+  --color-mediumseagreen: rgba(42, 199, 138, 0);
+
+  /* Border radiuses */
+  --br-429xl: 448px;
+  --br-11xl: 30px;
+  --br-xl: 20px;
+  --br-mini: 15px;
+  --br-6xl: 25px;
+  --br-3xs: 10px;
+  --br-4xl: 23px;
+  --br-mid: 17px;
+  --br-2xl: 21px;
+  --br-sm: 14px;
+}

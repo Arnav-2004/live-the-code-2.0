@@ -1,1 +1,30 @@
-# live-the-code-2.0
+# LIVE THE CODE 2.0 HACKATHON
+
+## DeFi Banking System (DigitalBits)
+
+Make your own token [DONE]
+Staking [DONE]
+Swap [DONE]
+Faucet [DONE]
+Connect Wallet [DONE]
+
+VDKToken Address:
+0x9C97D1Bab2dc0eBEb4796e4B9736d0e1d98C4b1F
+
+Faucet Address:
+0x826fE8B21ff08eB5D8f1DD678a24b8fb9982589E
+
+Staking Address:
+0xE425bbF9fcC22fF2685Ccaf5A11250715831EED2
+
+Swap Address:
+0xc37Ed91BaF3952ec92D41D9d8a87532266aD7578
+
+Swap Router Address:
+0xE592427A0AEce92De3Edee1F18E0157C05861564
+
+MATIC Address:
+0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0
+
+SOL Address:
+0xD31a59c85aE9D8edEFeC411D448f90841571b89c
